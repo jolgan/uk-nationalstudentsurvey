@@ -70,5 +70,10 @@ The dashboard was built to allow a stakeholder to have a birds-eye view of perfo
 <img width="496" height="84" alt="Centered table columns" src="https://github.com/user-attachments/assets/6dce29a0-60fa-4ef0-9064-935bb553369b" />
 
 
-# Link to [interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDk3Njc5ZTctOTk2Mi00OTkxLWI1MGMtMjMwYTM5NjZmOTE3IiwidCI6ImYzMzE3MDQxLTRjMzYtNDQ2Ni1iNmIzLTdiZDdjNTYxZWM3YyJ9&embedImagePlaceholder=true)
-# Link to National Student Survey 2025 provider-level [source dataset](https://www.officeforstudents.org.uk/data-and-analysis/national-student-survey-data/download-the-nss-data/)
+## Link to [interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDk3Njc5ZTctOTk2Mi00OTkxLWI1MGMtMjMwYTM5NjZmOTE3IiwidCI6ImYzMzE3MDQxLTRjMzYtNDQ2Ni1iNmIzLTdiZDdjNTYxZWM3YyJ9&embedImagePlaceholder=true)
+## Link to National Student Survey 2025 provider-level [source dataset](https://www.officeforstudents.org.uk/data-and-analysis/national-student-survey-data/download-the-nss-data/)
+
+### Presented to Regent's University's interview panel including:
+Kiran Nagar, Head of Data\
+Adam Davis, Head of Systems Development\
+Rachel Lawson, Senior Project Manager
