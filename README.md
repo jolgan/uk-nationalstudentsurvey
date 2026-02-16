@@ -1,6 +1,6 @@
 # NSS 2025 Provider Performance Power BI Dashboard
 
-This project was completed as part of a data task using real NSS (National Student Survey) data collected from universities across the UK. The original dataset contained formatting issues, spacer rows that created null values, pre-aggregated theme rows, inconsistent data types, and missing benchmark values which would have led to misleading analysis if left untreated. This documentation demonstrates an end-to-end workflow from raw Excel data > Power Query transformation > logical data restructuring → interactive (and intuitive!) dashboard design.
+This project was originally developed as part of a hiring process for a dashboard-focused role at Regent’s University London. This data task uses real NSS (National Student Survey) data collected from universities across the UK. The original dataset contained formatting issues, spacer rows that created null values, pre-aggregated theme rows, inconsistent data types, and missing benchmark values which would have led to misleading analysis if left untreated. This documentation demonstrates an end-to-end workflow from raw Excel data > Power Query transformation > logical data restructuring → interactive (and intuitive!) dashboard design.
 
 ### Tools Used
 
@@ -73,7 +73,7 @@ The dashboard was built to allow a stakeholder to have a birds-eye view of perfo
 ## Link to [interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDk3Njc5ZTctOTk2Mi00OTkxLWI1MGMtMjMwYTM5NjZmOTE3IiwidCI6ImYzMzE3MDQxLTRjMzYtNDQ2Ni1iNmIzLTdiZDdjNTYxZWM3YyJ9&embedImagePlaceholder=true)
 ## Link to National Student Survey 2025 provider-level [source dataset](https://www.officeforstudents.org.uk/data-and-analysis/national-student-survey-data/download-the-nss-data/)
 
-### Presented to Regent's University's interview panel including:
+### Presented to senior stakeholders including:
 Kiran Nagar, Head of Data\
 Adam Davis, Head of Systems Development\
 Rachel Lawson, Senior Project Manager
